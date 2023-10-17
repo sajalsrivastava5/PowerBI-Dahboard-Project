@@ -1,4 +1,4 @@
-# PowerBI-Dahboard-Project
+# PowerBI-Dashboard-Project
 
 **Data Collection:**
 
